@@ -11,7 +11,7 @@ A quick and easy to use template to get you going from the get go
 
 ### Preparation
 
-- Click the 3 dots in the righthand corner and go to Settings.
+- Click the 3 dots in the righthand corner and go to **Settings**.
 - Go to **Advanced** and enable **Plug-in system**.
 - Restart the application.
 - Click 3 dots and go to Plugins (or `Esc t p`).
@@ -19,10 +19,28 @@ A quick and easy to use template to get you going from the get go
 ### Install plugin from the Marketplace (recommended) 
 
 - Click the `Marketplace` button and then click `Plugins`.
-- Find the plugin and click Install.
+- Find the plugin and click `Install`.
 
 ### Install plugin manually
 
 - Download a released version assets from Github.
 - Unzip it.
 - Click Load unpacked plugin, and select destination directory to the unzipped folder.
+
+## Configuration
+
+- Click the 3 dots in the righthand corner and go to **Settings**.
+- Go to **Plugin Settings**.
+- Select correct plugin.
+
+## Using the plugin
+
+## Licence
+
+[MIT](.LICENSE)
+
+### Image license
+
+### Font License
+
+[OFL](./OFL.txt)
