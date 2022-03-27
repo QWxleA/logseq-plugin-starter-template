@@ -25,4 +25,4 @@ A quick and easy to use template to get you going from the get go
 
 - Download a released version assets from Github.
 - Unzip it.
-- Click Load unpacked plugin, and select destination directory to the unziped folder.
+- Click Load unpacked plugin, and select destination directory to the unzipped folder.
