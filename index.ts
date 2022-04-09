@@ -1,5 +1,7 @@
 import '@logseq/libs';
 
+const pluginName = ["logseq-starter-plugin", "Logseq Starter"]
+
 //Inputs 5 numbered blocks when called
 async function insertSomeBlocks (e) {
   console.log('Open the calendar!')
