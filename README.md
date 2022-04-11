@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out the logseq-starter-plugin. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -22,54 +22,40 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/QWxleA/Best-README-Template">
+  <a href="https://github.com/QWxleA/logseq-starter-plugin">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">logseq-starter-plugin</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/QWxleA/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/QWxleA/logseq-starter-plugin"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/QWxleA/Best-README-Template">View Demo</a>
+    <a href="https://github.com/QWxleA/logseq-starter-plugin">View Demo</a>
     ·
-    <a href="https://github.com/QWxleA/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/QWxleA/logseq-starter-plugin/issues">Report Bug</a>
     ·
-    <a href="https://github.com/QWxleA/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/QWxleA/logseq-starter-plugin/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#Configuration">Configuration</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#configuration">Configuration</a></li>
+    <li><a href="#issues">Issues</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -82,6 +68,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/QWxleA/logseq-starter-plugin/)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -95,24 +83,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -150,22 +120,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Go to **Plugin Settings**.
 - Select correct plugin.
 
+[![Configuration screen][configuration-screenshot]](##configuration)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Issues -->
+## Issues
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/QWxleA/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/QWxleA/logseq-starter-plugin/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,6 +157,12 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+### Image license
+
+### Font License
+
+[OFL](./OFL.txt)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -201,57 +170,24 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Alex Qwxlea - [@QwxleaA](https://twitter.com/QwxleaA) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [https://github.com/QwxleaA/logseq-starter-plugin](https://github.com/QwxleaA/logseq-starter-plugin)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/QWxleA/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/QWxleA/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/QWxleA/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/QWxleA/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/QWxleA/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[contributors-shield]: https://img.shields.io/github/contributors/QWxleA/logseq-starter-plugin.svg?style=for-the-badge
+[contributors-url]: https://github.com/QWxleA/logseq-starter-plugin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/QWxleA/logseq-starter-plugin.svg?style=for-the-badge
+[forks-url]: https://github.com/QWxleA/logseq-starter-plugin/network/members
+[stars-shield]: https://img.shields.io/github/stars/QWxleA/logseq-starter-plugin.svg?style=for-the-badge
+[stars-url]: https://github.com/QWxleA/logseq-starter-plugin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/QWxleA/logseq-starter-plugin.svg?style=for-the-badge
+[issues-url]: https://github.com/QWxleA/logseq-starter-plugin/issues
+[license-shield]: https://img.shields.io/github/license/QWxleA/logseq-starter-plugin.svg?style=for-the-badge
+[license-url]: https://github.com/QWxleA/logseq-starter-plugin/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-
-
-## Using the plugin
-
-## Licence
-
-[MIT](.LICENSE)
-
-### Image license
-
-### Font License
-
-[OFL](./OFL.txt)
+[configuration-screenshot]: ./images/configuration.png

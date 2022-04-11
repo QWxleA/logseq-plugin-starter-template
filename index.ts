@@ -1,6 +1,15 @@
 import '@logseq/libs';
+import { SettingSchemaDesc } from '@logseq/libs/dist/LSPlugin';
 
 const pluginName = ["logseq-starter-plugin", "Logseq Starter"]
+let settingsTemplate: SettingSchemaDesc[] = [  
+  {
+    key: "emoji",
+    type: 'string',
+    default: "⏱",
+    title: "Note taking Emoji",
+    description: "Emoji printed when transcribing video",
+  }]
 
 //Inputs 5 numbered blocks when called
 async function insertSomeBlocks (e) {
@@ -14,7 +23,9 @@ async function insertSomeBlocks (e) {
   
 
 const main = async () => {
-  console.log('plugin loaded');
+  console.log(`Plugin: ${pluginName[1]} loaded`)
+  await logseq.useSettingsSchema(settingsTemplate)
+
   logseq.Editor.registerSlashCommand('insertBlocks', async (e) => {
     insertSomeBlocks(e)
   }
