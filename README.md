@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/QWxleA/logseq-starter-plugin">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">logseq-starter-plugin</h3>
@@ -67,7 +67,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 [![Product Name Screen Shot][product-screenshot]](https://github.com/QWxleA/logseq-starter-plugin/)
 
 
