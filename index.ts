@@ -1,7 +1,7 @@
 import '@logseq/libs';
 import { SettingSchemaDesc } from '@logseq/libs/dist/LSPlugin';
 
-const pluginName = ["logseq-starter-plugin", "Starter Plugin"]
+const pluginName = ["{{% plugin-name %}}", "{{% plugin-title %}}"]
 let settingsTemplate: SettingSchemaDesc[] = [  
   {
     key: "emoji",
